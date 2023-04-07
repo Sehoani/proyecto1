@@ -1,17 +1,16 @@
 body {
-    background-color: black;
-    color: white;
+    background-color: bisque;
+    /*color: white;*/
 }
 
 
 
 img {
-    width: 10%;
+    width: 15%;
     background-position: 10rem;
 }
 
 h1 {
-    color: gray;
     font-size: 40px;
 }
 
