@@ -3,6 +3,17 @@ body {
     /*color: white;*/
 }
 
+nav {
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 1%;
+}
+
+nav>ul>li {
+    display: inline-block;
+    margin-right: 5%;
+}
 
 
 img {
